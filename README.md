@@ -9,6 +9,7 @@ Methods used:
 # Summary of Results
 
 Screeplot
+
 ![scree](screeplot.png)
 
 Based on the elbow plot produced, I chose to conduct k-means clustering with k = 5 clusters.
