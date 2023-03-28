@@ -42,7 +42,7 @@ Cluster summaries:
 
 ![pca](fwd_pca.png)
 
-Analysis of Clusters based on PCA: It looks like there is a fairly even separation of clusters on PC1 than PC2, indicating passing ability, carries, and recoveries has influenced clustering about the same amount as goal scoring ability, as discussed above when analyzing the influential features in the two principal components.
+Analysis of Clusters based on PCA: It looks like there is a fairly even separation of clusters on PC1 compared to PC2, indicating passing ability, carries, and recoveries has influenced clustering about the same amount as goal scoring ability, as discussed above when analyzing the influential features in the two principal components.
 
 Data set from https://www.kaggle.com/datasets/vivovinco/20212022-football-player-stats?resource=download
 Data provided by https://fbref.com/en/comps/Big5/stats/players/Big-5-European-Leagues-Stats
