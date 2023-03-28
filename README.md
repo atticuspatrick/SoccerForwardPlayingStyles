@@ -8,13 +8,13 @@ Methods used:
 
 # Summary of Results
 
-Screeplot
+### Screeplot
 
 ![scree](screeplot.png)
 
 Based on the "elbow" of the screeplot plot produced, I chose to conduct k-means clustering with k = 5 clusters. I also moved forward with 5 clusters considering the variation within wingers and strikers play styles in soccer which can include traditional strikers, playmakers, target men, deep lying forwards, traditional wingers, inverted wingers etc.
 
-Player Statistics by cluster (radar plots)
+### Player Statistics by cluster (radar plots)
 
 ![fwd1](fwd1.png)
 
@@ -38,7 +38,7 @@ Cluster summaries:
 
 4: This group appears to have the best passing stats and tackling/pressing stats, with high passes attempted, completed, passing percentage, recoveries, tackles won among others when compared to the other 4 clusters. Notable players: Roberto Firmino, Bernardo Silva, Serge Gnabry
 
-Clusters displayed by principal component analysis
+### Clusters displayed by principal component analysis
 
 ![pca](fwd_pca.png)
 
