@@ -12,7 +12,7 @@ Screeplot
 
 ![scree](screeplot.png)
 
-Based on the elbow plot produced, I chose to conduct k-means clustering with k = 5 clusters. I also moved forward with 5 clusters considering the variation within wingers and strikers play styles in soccer which can include traditional strikers, playmakers, target men, deep lying forwards, traditional wingers, inverted wingers etc.
+Based on the "elbow" of the screeplot plot produced, I chose to conduct k-means clustering with k = 5 clusters. I also moved forward with 5 clusters considering the variation within wingers and strikers play styles in soccer which can include traditional strikers, playmakers, target men, deep lying forwards, traditional wingers, inverted wingers etc.
 
 Player Statistics by cluster (radar plots)
 
